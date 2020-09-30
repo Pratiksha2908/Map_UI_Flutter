@@ -1,4 +1,4 @@
-# img_scanner
+# map_UI
 
 A new Flutter application.
 
